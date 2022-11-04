@@ -1,0 +1,15 @@
+{
+    "name":"apriltag",
+    "version-string":"3.3.0",
+    "description":" A visual fiducial system, useful for a wide variety of tasks including augmented reality, robotics, and camera calibration.",
+    "dependencies": [
+        {
+            "name": "vcpkg-cmake",
+            "host": true
+          },
+          {
+            "name": "vcpkg-cmake-config",
+            "host": true
+          }
+    ]
+}
